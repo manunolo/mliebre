@@ -1,0 +1,21 @@
+{
+  "name": "mercado_liebre_acosta",
+  "author": "Manuel Acosta",
+  "version": "1.0.0",
+  "description": "sitio de mercado libre Manuel Acosta",
+  "main": "app.js",
+  "scripts": {
+    "ejecutar": "nodemon app.js",
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JAVASCRIPT"
+  ],
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
