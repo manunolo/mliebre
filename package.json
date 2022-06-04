@@ -5,7 +5,7 @@
   "description": "sitio de mercado libre Manuel Acosta",
   "main": "app.js",
   "scripts": {
-    "ejecutar": "nodemon app.js",
+    "ejecutar": "nodemon app.js"
   },
   "keywords": [
     "HTML",
